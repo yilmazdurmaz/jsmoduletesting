@@ -1,4 +1,4 @@
-import {test as testing,tested} from "testing.js"
+import {test as testing,tested} from "./testing.js"
 
 console.log("starting a test")
 testing()
